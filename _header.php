@@ -26,26 +26,19 @@
     <nav>
       <a class="ui item home active">
         Home
-      </a>
-      <a class="ui item about">
+      </a><a class="ui item about">
         About KPA
-      </a>
-      <a class="ui item projects">
+      </a><a class="ui item projects">
         Projects
-      </a>
-      <a class="ui item resources large">
+      </a><a class="ui item resources large">
         Learning Resources
-      </a>
-      <a class="ui item news large">
+      </a><a class="ui item news large">
         News &amp; Events
-      </a>
-      <a class="ui item large">
+      </a><a class="ui item large">
         Membership
-      </a>
-      <a class="ui item health">
+      </a><a class="ui item health">
         Health Blog
-      </a>
-      <a class="ui item contact">
+      </a><a class="ui item contact">
         Contacts
       </a>
     </nav>
