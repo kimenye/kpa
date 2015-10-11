@@ -61,3 +61,24 @@ nav {
     }
   }    
 }
+
+.hero {
+  background: url('../images/hero.png') no-repeat;
+  height: 570px;
+  width: 100%;
+  padding: 0px 15%;
+}
+
+footer {
+  .strip {
+    background: url('../images/strip.png') repeat-x;
+    height: 21px;
+    width: 100%;    
+  }
+
+  .info {
+    background-color: #660099;
+    padding: 2em 0em;
+    width: 100%;
+  }
+}
