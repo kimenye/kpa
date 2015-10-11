@@ -29,13 +29,23 @@
   </div>
   <div class="six wide column events">
     <h3>Events</h3>
-    <div class="event">
-      <a class="calendar">
+    <div class="event ui grid">
+      <a class="calendar three wide column">
         <img src='images/calendar.jpg' alt='Calendar' />
       </a>
-      <div class="details">
+      <div class="details thirteen wide column">
         <h4 class="title">15th Annual Scientific Conference</h4>
         <h5 class="date">15-17th April 2015</h5>
+        <div class="location">Sarova Whitesands Beach Resort &amp; Spa</div>
+      </div>
+    </div>
+    <div class="event ui grid">
+      <a class="calendar three wide column">
+        <img src='images/calendar.jpg' alt='Calendar' />
+      </a>
+      <div class="details thirteen wide column">
+        <h4 class="title">KPA Annual Run</h4>
+        <h5 class="date">1st November 2015</h5>
         <div class="location">Sarova Whitesands Beach Resort &amp; Spa</div>
       </div>
     </div>
