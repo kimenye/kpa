@@ -125,6 +125,32 @@ nav {
   }
 }
 
+.secondary {
+  .resources {
+    border: 2px solid #ff6633;
+  }
+
+  .link_box {
+    .icon {
+      padding: 1.5em;
+      // width: 40%;
+    }
+
+    .description {
+      // width: 60%;
+      background-color: #ff6633;
+      padding: 1em;
+      color: #ffffff;
+
+      .more {
+        color: #ff6633;
+        background-color: #ffffff;
+        padding: 0.5em;
+      }
+    }
+  }
+}
+
 footer {
   margin-top: 3em;
   .strip {

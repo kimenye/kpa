@@ -52,5 +52,27 @@
   </div>
 </div>
 
+<div class="ui page two column grid secondary">
+  <div class="column">
+    <div class="ui grid row resources link_box">
+      <div class="six wide column icon">
+        <img src='images/resources.png' alt='Resources' />
+      </div>
+      <div class="description ten wide column">
+        <h3>Learning Resources</h3>
+        <p>Welcome to the official website of the Kenya Paediatric Association (KPA). KPA, is a nonprofit, non-partisan body of paediatric 
+        practitioners committed to professional excellence and timely, quality service delivery to the children we serve.</p>
+        <a class="more">Read More</a>
+      </div>
+    </div>
+  </div>
+  <div class="column">
+  </div>
+  <div class="column">
+  </div>
+  <div class="column">
+  </div>
+</div>
+
 
 <?php include '_footer.php'; ?>
