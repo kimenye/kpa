@@ -1,0 +1,63 @@
+header {
+  &.ui.page.grid {
+    margin: 0em;
+
+    .logo {
+      padding: 1em 0em;
+    }
+  }
+}
+
+nav {
+  padding-left: 15%;
+  padding-right: 15%;  
+  box-shadow: none;
+  border-radius: 0px;
+  border: 0px;
+    
+  .item {
+    width: 10%;
+    display: inline-block;
+    text-align: center;
+    padding: 0.75em 0em;
+    color: #dcdcdc;
+    border-top-width: 10px;
+    border-top-style: solid;
+
+    &.large {
+      width: 15%;
+    }
+
+    &.active {
+      color: #ffffff;
+    }
+
+    @mixin bordered-background($color) {
+      border-top-color: $color;
+      &.active {
+        background-color: $color;
+      }
+    }
+
+    &.home {
+      @include bordered-background(#ff008a);
+    }
+
+    &.about,
+    &.health {
+      @include bordered-background(#77ce24);      
+    }
+
+    &.projects,
+    &.contact {
+      @include bordered-background(#ff9900);      
+    }
+
+    &.resources {
+      @include bordered-background(#0099ff);
+    }
+    &.news {
+      @include bordered-background(#660099);
+    }
+  }    
+}
