@@ -126,19 +126,30 @@ nav {
 }
 
 .secondary {
-  .resources {
-    border: 2px solid #ff6633;
-  }
+  @mixin bordered-link-box($color) {
+    border-top: 2px solid $color;
+    border-left: 2px solid $color;
+    border-bottom: 2px solid $color;
+    .description {
+      background-color: $color;
+      .more {
+        color: $color;
+      }
+    }
+  }  
 
   .link_box {
+    margin-right: 1em;
+    margin-bottom: 2em;
     .icon {
       padding: 1.5em;
-      // width: 40%;
+      img {
+        display: block;
+        margin: auto;
+      }
     }
 
-    .description {
-      // width: 60%;
-      background-color: #ff6633;
+    .description {      
       padding: 1em;
       color: #ffffff;
 
@@ -148,6 +159,22 @@ nav {
         padding: 0.5em;
       }
     }
+
+    &.resources {
+      @include bordered-link-box(#ff6633);
+    }
+
+    &.patient_info {
+      @include bordered-link-box(#66ccff);
+    }
+    &.projects {
+      @include bordered-link-box(#ffcc00);
+    }
+    &.membership {
+      @include bordered-link-box(#cc66cc);
+    }
+
+
   }
 }
 
@@ -167,6 +194,13 @@ footer {
 
     h3 {
       font-weight: 100;
+    }
+
+    .quick_links {
+      a {
+        display: block;
+        color: #ffffff;
+      }
     }
   }
 

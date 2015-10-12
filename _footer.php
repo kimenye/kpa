@@ -17,6 +17,22 @@
 
       <div class="column quick_links">
         <h3>Quick Links</h3>
+        <div class="ui two column grid">
+          <div class="column">
+            <a>Events</a>
+            <a>Learning Resources</a>
+            <a>Banners</a>
+            <a>Partners</a>
+            <a>Projects</a>
+          </div>
+          <div class="column">
+            <a>Privacy Policy</a>
+            <a>Media Centre</a>
+            <a>Blog</a>
+            <a>About Us</a>
+            <a>Member Benefits</a>
+          </div>
+        </div>
       </div>
 
       <div class="column newsletter">

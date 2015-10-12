@@ -67,10 +67,43 @@
     </div>
   </div>
   <div class="column">
+    <div class="ui grid row patient_info link_box">
+      <div class="six wide column icon">
+        <img src='images/patient_info.png' alt='Resources' />
+      </div>
+      <div class="description ten wide column">
+        <h3>Patient Information</h3>
+        <p>Welcome to the official website of the Kenya Paediatric Association (KPA). KPA, is a nonprofit, non-partisan body of paediatric 
+        practitioners committed to professional excellence and timely, quality service delivery to the children we serve.</p>
+        <a class="more">Read More</a>
+      </div>
+    </div>
   </div>
   <div class="column">
+    <div class="ui grid row projects link_box">
+      <div class="six wide column icon">
+        <img src='images/projects.png' alt='Resources' />
+      </div>
+      <div class="description ten wide column">
+        <h3>Projects</h3>
+        <p>Welcome to the official website of the Kenya Paediatric Association (KPA). KPA, is a nonprofit, non-partisan body of paediatric 
+        practitioners committed to professional excellence and timely, quality service delivery to the children we serve.</p>
+        <a class="more">Read More</a>
+      </div>
+    </div>
   </div>
   <div class="column">
+    <div class="ui grid row membership link_box">
+      <div class="six wide column icon">
+        <img src='images/membership.png' alt='Resources' />
+      </div>
+      <div class="description ten wide column">
+        <h3>Membership</h3>
+        <p>Welcome to the official website of the Kenya Paediatric Association (KPA). KPA, is a nonprofit, non-partisan body of paediatric 
+        practitioners committed to professional excellence and timely, quality service delivery to the children we serve.</p>
+        <a class="more">Read More</a>
+      </div>
+    </div>
   </div>
 </div>
 
