@@ -11,7 +11,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.1.4/semantic.min.css">
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,700" media="screen" rel="stylesheet">
     <link rel="stylesheet" href="stylesheets/style.css">
+
 
     <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
     <link rel="icon" href="images/favicon.ico" type="image/x-icon">
