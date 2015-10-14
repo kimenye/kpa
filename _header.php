@@ -21,7 +21,7 @@
     <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>      
     <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.1.4/semantic.min.js"></script>
   </head>
-  <body>
+  <body class="<?php echo $menu; ?>">
     <header class='ui page grid'>
       <a href="/" class="logo">
         <img src="images/logo.png" />
@@ -29,7 +29,7 @@
     </header>
     <!-- <nav class='ui menu'> -->
     <nav>
-      <a class="ui item home active">
+      <a class="ui item home <?php echo $menu == 'home' ? 'active' : ''  ?>" href="index.php">
         Home
       </a><a class="ui item about">
         About KPA
@@ -43,7 +43,7 @@
         Membership
       </a><a class="ui item health">
         Health Blog
-      </a><a class="ui item contact">
+      </a><a class="ui item contact <?php echo $menu == 'contacts' ? 'active' : ''  ?>" href="contacts.php">
         Contacts
       </a>
     </nav>
