@@ -31,7 +31,7 @@
     <nav>
       <a class="ui item home <?php echo $menu == 'home' ? 'active' : ''  ?>" href="index.php">
         Home
-      </a><a class="ui item about">
+      </a><a class="ui item about <?php echo $menu == 'about' ? 'active' : ''  ?>" href="about.php">
         About KPA
       </a><a class="ui item projects">
         Projects

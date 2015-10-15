@@ -34,9 +34,9 @@
         <img src='images/calendar.jpg' alt='Calendar' />
       </a>
       <div class="details thirteen wide column">
-        <h4 class="title">15th Annual Scientific Conference</h4>
-        <h5 class="date">15-17th April 2015</h5>
-        <div class="location">Sarova Whitesands Beach Resort &amp; Spa</div>
+        <h4 class="title">Adolescent Care Demystified</h4>
+        <h5 class="date">30th October 2015</h5>
+        <div class="location">Dr. Joyce Mbogo</div>
       </div>
     </div>
     <div class="event ui grid">
@@ -44,9 +44,9 @@
         <img src='images/calendar.jpg' alt='Calendar' />
       </a>
       <div class="details thirteen wide column">
-        <h4 class="title">KPA Annual Run</h4>
-        <h5 class="date">1st November 2015</h5>
-        <div class="location">Sarova Whitesands Beach Resort &amp; Spa</div>
+        <h4 class="title">Running for Child Survival</h4>
+        <h5 class="date">14th November 2015</h5>
+        <div class="location">University of Nairobi Grounds</div>
       </div>
     </div>
   </div>
