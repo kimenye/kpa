@@ -17,7 +17,8 @@ body {
     font-weight: 100;
   }
 
-  body, h1, h2, h3, h4, h5, h6, p, a, span, input, address {
+  body, h1, h2, h3, h4, h5, h6, p, a, span, input, address,
+  .ui.accordion .title:not(.ui) {
     font-family: 'Open Sans', sans-serif;
     font-style: normal;
   }
@@ -132,6 +133,55 @@ nav {
       font-size: 1.25em;
       font-weight: 100;
       color: #006699;
+    }
+  }
+}
+
+.about {
+  .more {
+    h3 {
+      color: #0066cc;
+      .em {
+        color: #ff0099;
+      }
+    }
+
+    .download.links {
+      a {
+        display: block;
+        color: #ffffff;
+        padding: 0.75em 1em;
+
+        &.primary {
+          background-color: #ff0099;
+        }
+
+        &.secondary {
+          background-color: #66cc33;
+        }
+
+        &.tertiary {
+          background-color: #0099ff;
+        }
+      }
+    }
+  }
+}
+
+.ui.styled.accordion {
+  border-radius: 0px;
+
+  .title {
+    text-transform: uppercase;
+
+    i.dropdown.icon {
+      float: right;
+    }
+
+    &.active {
+      border-bottom: 1px solid rgba(34,36,38,.15);
+      background-color: #cccccc;
+      color: rgba(0,0,0,.4);
     }
   }
 }
