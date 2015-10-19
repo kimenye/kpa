@@ -35,7 +35,7 @@
       </a>
       <div class="details thirteen wide column">
         <h4 class="title">Adolescent Care Demystified</h4>
-        <h5 class="date">30th October 2015</h5>
+        <h5 class="date">26th October 2015</h5>
         <div class="location">Dr. Joyce Mbogo</div>
       </div>
     </div>
