@@ -36,7 +36,11 @@
       </div>
 
       <div class="column newsletter">
-        <h3>Newsletter Sign Up</h3>
+        <h3>Find us on Social Media</h3>
+        <div class="social icons">
+          <a><i class="icon facebook large circular"></i></a>
+          <a><i class="icon twitter large circular"></i></a>
+          <a><i class="icon linkedin large circular"></i></a>
       </div>
     </div>
   </div>

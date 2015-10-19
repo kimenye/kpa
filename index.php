@@ -107,5 +107,12 @@
   </div>
 </div>
 
+<div class="ui page grid sponsors">
+  <div class="sixteen wide column">
+    <h2>Our Partners &amp; Sponsors</h2>
+    <img src="images/partners_tmp.png" />
+  </div>
+</div>
+
 
 <?php include '_footer.php'; ?>

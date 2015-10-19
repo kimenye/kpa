@@ -28,8 +28,8 @@
     <div class="ten wide column">
       <h3>What <span class='em'>We Do</span></h3>
       <div class="ui styled accordion">
-        <div class="title active">Vision<i class="dropdown icon"></i></div>
-        <div class="content transition visible">
+        <div class="title">Vision<i class="dropdown icon"></i></div>
+        <div class="content">
           <p>Providing an optimal healthcare environment for the child</p>
         </div>
 
@@ -59,6 +59,7 @@
         <a class="primary">KPA Strategic Plan</a>
         <a class="secondary">The Constitution of the KPA</a>
         <a class="tertiary">Board Members</a>
+        <a class="primary">Organogram</a>
       </div>
     </div>
   </div>

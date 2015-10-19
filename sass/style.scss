@@ -5,6 +5,11 @@ header {
     .logo {
       padding: 1em 0em;
     }
+
+    .social.icons {
+      float: right;
+      margin-top: 1em;
+    }
   }
 }
 
@@ -186,12 +191,13 @@ nav {
   }
 }
 
-.circular {
+img.circular {
   width: 300px;
   height: 300px;
   border-radius: 150px;
   display: block;
   margin: auto;
+  border: 3px solid #006699;
 }
 
 .hero {
@@ -246,6 +252,18 @@ nav {
         }
       }
     }
+  }
+}
+
+.sponsors {
+  h2 {
+    text-align: center;
+    color: #0066cc;
+  }
+
+  img {
+    display: block;
+    margin: auto;
   }
 }
 
@@ -325,6 +343,13 @@ footer {
         display: block;
         color: #ffffff;
       }
+    }
+  }
+
+  .social.icons {
+    a { color: #ffffff; }
+    .circular {
+      border: none;
     }
   }
 
