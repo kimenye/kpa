@@ -113,7 +113,8 @@ nav {
 }
 
 .contacts,
-.about {
+.about,
+.resources {
   nav {
     .item {
       border-bottom: 1px solid #eeeeee;      
@@ -138,6 +139,43 @@ nav {
       font-size: 1.25em;
       font-weight: 100;
       color: #006699;
+    }
+  }
+}
+
+.resources {
+  .main {
+    h2 {
+      border-bottom: none;
+    }
+
+    .search.panel {
+      border: 1px solid #cccccc;
+      border-radius: 5px;
+      padding: 2em;
+
+      h2 {
+        text-align: right;
+      }
+    }
+
+    .results {
+      h3 {
+        // color: #006699;
+        border-bottom: 1px solid #eeeeee;
+        small {
+          font-style: italic;
+        }
+      }
+
+      ol {
+        padding-left: 1.2em;
+        padding-top: 1.2em;
+      }
+
+      .result {
+        margin-bottom: 1em;
+      }
     }
   }
 }

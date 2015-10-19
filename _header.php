@@ -45,7 +45,7 @@
         About KPA
       </a><a class="ui item projects">
         Projects
-      </a><a class="ui item resources large">
+      </a><a class="ui item large resources <?php echo $menu == 'resources' ? 'active' : ''  ?>" href="resources.php">
         Learning Resources
       </a><a class="ui item news large">
         News &amp; Events
