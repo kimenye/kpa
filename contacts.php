@@ -21,9 +21,9 @@
 
     <h4>BUSINESS HOURS</h4>
     <address>
-      <b>Monday-Friday: </b>9am to 5pm<br />
-      <b>Saturday: </b>9am to 2pm<br />
-      <b>Sunday: </b>Closed<br />
+      <b>Monday-Thursday: </b>9am to 5pm<br />
+      <b>Friday: </b>9am to 1pm<br />
+      <b>Saturday-Sunday: </b>Closed<br />
       <b>Public Holidays: </b>Closed<br />
     </address>
 
@@ -41,7 +41,14 @@
         <input type="email" name="email" placeholder="Enter your email" />
       </div>
       <div class="field">
-        <input type="text" name="subject" placeholder="Subject" />
+        <select class="ui dropdown" name="subject">
+          <option value="General Information">General Information</option>
+          <option value="Membership">Membership</option>
+          <option value="Conference Partnership">Conference Partnership</option>
+          <option value="Course Attendance">Course Attendance</option>
+          <option value="Abstract / Article Submission">Abstract / Article Submission</option>
+          <option value="Press">Press</option>
+        </select>
       </div>
       <div class="field">
         <textarea name="message" placeholder="Message"></textarea>
