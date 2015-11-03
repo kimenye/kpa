@@ -44,9 +44,9 @@
         <img src='images/calendar.jpg' alt='Calendar' />
       </a>
       <div class="details thirteen wide column">
-        <h4 class="title">Running for Child Survival</h4>
-        <h5 class="date">14th November 2015</h5>
-        <div class="location">University of Nairobi Grounds</div>
+        <h4 class="title">Call for Abstracts</h4>
+        <h5 class="date">1st February 2016</h5>
+        <div class="location">abstracts@kenyapaediatric.org</div>
       </div>
     </div>
   </div>

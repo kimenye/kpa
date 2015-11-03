@@ -47,12 +47,12 @@
         Projects
       </a><a class="ui item large resources <?php echo $menu == 'resources' ? 'active' : ''  ?>" href="resources.php">
         Learning Resources
-      </a><a class="ui item news large">
+      </a><a class="ui item news">
         News &amp; Events
       </a><a class="ui item large">
         Membership
-      </a><a class="ui item health">
-        Health Blog
+      </a><a class="ui item large health">
+        Parents Resources
       </a><a class="ui item contact <?php echo $menu == 'contacts' ? 'active' : ''  ?>" href="contacts.php">
         Contacts
       </a>
