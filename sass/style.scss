@@ -124,6 +124,7 @@ nav {
 
 .contacts,
 .about,
+.projects,
 .resources {
   nav {
     .item {
@@ -172,6 +173,7 @@ nav {
     .results {
       h3 {
         // color: #006699;
+        font-weight: 400;
         border-bottom: 1px solid #eeeeee;
         small {
           font-style: italic;
@@ -187,6 +189,25 @@ nav {
         margin-bottom: 1em;
       }
     }
+  }
+}
+
+.projects {
+  .project {
+    margin-top: 2rem;
+
+    &:first-child {
+      margin-top: 0rem;
+    }
+
+    h3, em {
+      font-weight: 400;
+    }
+
+    table {
+      margin-top: 1rem !important;
+    }
+
   }
 }
 

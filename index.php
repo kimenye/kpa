@@ -64,7 +64,7 @@
       <div class="description ten wide column">
         <h3>Learning Resources</h3>
         <p>Kenya Paediatric Association is committed to the support to its members in continually enhancing their professional growth to enable them deliver excellent services that will give children quality, healthy lives. Herein is a collection of educational materials to aid members maintain, develop and increase knowledge as professionals.</p>
-        <a class="more">Read More</a>
+        <a class="more" href="resources.php">Read More</a>
       </div>
     </div>
   </div>
@@ -88,7 +88,7 @@
       <div class="description ten wide column">
         <h3>Projects</h3>
         <p>The Kenya Paediatric Association has since 2006, undertaken various intervention projects in HIV\AIDS prevention, care and treatment services as well as Maternal and Child Health which includes ETAT+, NALS. Various other projects are ongoing to address the increasing demand for quality child health care delivery.</p>
-        <a class="more">Read More</a>
+        <a class="more" href="projects.php">Read More</a>
       </div>
     </div>
   </div>

@@ -27,7 +27,7 @@
   <body class="<?php echo $menu; ?>">
     <header class='ui page grid'>
       <div class="thirteen wide column">
-        <a href="/" class="logo">
+        <a href="index.php" class="logo">
           <img src="images/logo.png" />
         </a>           
       </div>
@@ -45,7 +45,7 @@
         Home
       </a><a class="ui item about <?php echo $menu == 'about' ? 'active' : ''  ?>" href="about.php">
         About KPA
-      </a><a class="ui item projects">
+      </a><a class="ui item projects <?php echo $menu == 'projects' ? 'active' : ''  ?>" href="projects.php">
         Projects
       </a><a class="ui item large resources <?php echo $menu == 'resources' ? 'active' : ''  ?>" href="resources.php">
         Learning Resources
