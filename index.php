@@ -60,8 +60,7 @@
       </div>
       <div class="description ten wide column">
         <h3>Learning Resources</h3>
-        <p>Welcome to the official website of the Kenya Paediatric Association (KPA). KPA, is a nonprofit, non-partisan body of paediatric 
-        practitioners committed to professional excellence and timely, quality service delivery to the children we serve.</p>
+        <p>Kenya Paediatric Association is committed to the support to its members in continually enhancing their professional growth to enable them deliver excellent services that will give children quality, healthy lives. Herein is a collection of educational materials to aid members maintain, develop and increase knowledge as professionals.</p>
         <a class="more">Read More</a>
       </div>
     </div>
@@ -72,9 +71,8 @@
         <img src='images/patient_info.png' alt='Resources' />
       </div>
       <div class="description ten wide column">
-        <h3>Patient Information</h3>
-        <p>Welcome to the official website of the Kenya Paediatric Association (KPA). KPA, is a nonprofit, non-partisan body of paediatric 
-        practitioners committed to professional excellence and timely, quality service delivery to the children we serve.</p>
+        <h3>Health Blog</h3>
+        <p>This is a bi-monthly platform where our in-house paedtricians will share expert opinions on trending health topics and discuss common public health concerns. Parents and caregivers can log on and receive general health advice on keeping those precious children safe.</p>
         <a class="more">Read More</a>
       </div>
     </div>
@@ -86,8 +84,7 @@
       </div>
       <div class="description ten wide column">
         <h3>Projects</h3>
-        <p>Welcome to the official website of the Kenya Paediatric Association (KPA). KPA, is a nonprofit, non-partisan body of paediatric 
-        practitioners committed to professional excellence and timely, quality service delivery to the children we serve.</p>
+        <p>The Kenya Paediatric Association has since 2006, undertaken various intervention projects in HIV\AIDS prevention, care and treatment services as well as Maternal and Child Health which includes ETAT+, NALS. Various other projects are ongoing to address the increasing demand for quality child health care delivery.</p>
         <a class="more">Read More</a>
       </div>
     </div>
@@ -99,8 +96,7 @@
       </div>
       <div class="description ten wide column">
         <h3>Membership</h3>
-        <p>Welcome to the official website of the Kenya Paediatric Association (KPA). KPA, is a nonprofit, non-partisan body of paediatric 
-        practitioners committed to professional excellence and timely, quality service delivery to the children we serve.</p>
+        <p>KPA is implementing its strategic plan 2013-2017 through a multi stake holder approach via 6 committees in line with the strategic intervention. Plug-in to the great vision “Afya kwa watoto wote” through the following committees:</p>
         <a class="more">Read More</a>
       </div>
     </div>

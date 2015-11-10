@@ -41,7 +41,8 @@
         <input type="email" name="email" placeholder="Enter your email" />
       </div>
       <div class="field">
-        <select class="ui dropdown" name="subject">
+        <select class="ui dropdown" name="subject" required="true">
+          <option value="">Select Category</option>
           <option value="General Information">General Information</option>
           <option value="Membership">Membership</option>
           <option value="Conference Partnership">Conference Partnership</option>

@@ -84,8 +84,10 @@ nav {
 
     @mixin bordered-background($color) {
       border-top-color: $color;
-      &.active {
+      &.active,
+      &:hover {
         background-color: $color;
+        color: #ffffff;
       }
     }
 
@@ -109,7 +111,15 @@ nav {
     &.news {
       @include bordered-background(#660099);
     }
-  }    
+  }  
+
+  .ui.dropdown {
+    text-align: center;
+
+    .menu {
+      border-radius: 0em;
+    }
+  }  
 }
 
 .contacts,
@@ -239,8 +249,8 @@ img.circular {
 }
 
 .hero {
-  background: url('../images/hero.png') no-repeat;
-  background-size: cover;
+  // background: url('../images/hero.png') no-repeat;
+  // background-size: cover;
   height: 400px;
   width: 100%;
   padding: 0px 15%;
