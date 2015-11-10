@@ -12,7 +12,7 @@ gulp.task('compileSass', function () {
 });
 
 gulp.task('clean', function(){
-  del(['stylesheets/*css']);
+  del(['stylesheets/style.css']);
 });
 
 gulp.task('default', ['clean'], function(){
