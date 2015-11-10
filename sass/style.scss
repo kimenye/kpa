@@ -249,11 +249,11 @@ img.circular {
 }
 
 .hero {
-  // background: url('../images/hero.png') no-repeat;
-  // background-size: cover;
-  height: 400px;
+  height: 500px;
   width: 100%;
-  padding: 0px 15%;
+  overflow: hidden;
+  padding-left: 0px !important;
+  padding-right: 0px !important;  
 }
 
 .main {

@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.1.4/semantic.min.css">
     <link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,700" media="screen" rel="stylesheet">
     <link rel="stylesheet" href="stylesheets/style.css">
+    <link rel="stylesheet" href="stylesheets/owl.carousel.css">
 
 
     <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
@@ -20,6 +21,7 @@
     
     <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>      
     <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.1.4/semantic.min.js"></script>
+    <script type="text/javascript" src="javascript/owl.carousel.min.js"></script>
     <script type="text/javascript" src="javascript/main.js"></script>
   </head>
   <body class="<?php echo $menu; ?>">
