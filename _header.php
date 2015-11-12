@@ -28,14 +28,14 @@
     <header class='ui page grid'>
       <div class="thirteen wide column">
         <a href="index.php" class="logo">
-          <img src="images/logo.png" />
+          <img src="images/logo_mid.png" />
         </a>           
       </div>
       <div class="three wide column">
         <div class="social icons">
-          <a><i class="icon facebook small circular"></i></a>
-          <a><i class="icon twitter small circular"></i></a>
-          <a><i class="icon linkedin small circular"></i></a>
+          <a><i class="icon facebook circular"></i></a>
+          <a><i class="icon twitter circular"></i></a>
+          <a><i class="icon linkedin circular"></i></a>
         </div>
       </div>
     </header>
