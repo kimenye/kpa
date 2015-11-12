@@ -6,7 +6,7 @@
 
 <div class="ui page grid">
   <div class="hero owl-carousel" >
-    <div><img src="images/baby_sleeping.jpg" alt="Baby sleeping" /></div>
+    <!-- <div><img src="images/scientific_conference.jpg" alt="Scientific Conference 2016" /></div> -->
     <div><img src="images/mom-and-baby.jpg" alt="Baby sleeping" /></div>
     <div><img src="images/hero.png" /></div>
   </div>

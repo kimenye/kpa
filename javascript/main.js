@@ -7,7 +7,7 @@ $(function() {
   // carousel
   $(".owl-carousel").owlCarousel({
     autoPlay: 4000,
-    items: 3,
+    items: 2,
     singleItem:true
   });
 });

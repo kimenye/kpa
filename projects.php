@@ -4,6 +4,8 @@
   include '_header.php';
 ?>
 
+
+
 <div class="ui page grid main">
   <div class="row">
     <div class="project">
@@ -179,11 +181,92 @@
                   <td>5</td>
                   <td>20</td>
                 </tr>
+                <tr>
+                  <td>Nanyuki District Hospital</td>
+                  <td>14 – 18th Jan 2013</td>
+                  <td>31</td>
+                  <td>31</td>
+                  <td>22</td>
+                  <td>4</td>
+                  <td>3</td>
+                  <td>24</td>
+                </tr>
+                <tr>
+                  <td>Mama Lucy Hospital</td>
+                  <td>28th Jan – 1st Feb 2013</td>
+                  <td>31</td>
+                  <td>31</td>
+                  <td>30</td>
+                  <td>6</td>
+                  <td>9</td>
+                  <td>16</td>
+                </tr>
+                <tr>
+                  <td>PCEA Chogoria Mission Hospital</td>
+                  <td>18th -22nd  Mar 2013</td>
+                  <td>32</td>
+                  <td>31</td>
+                  <td>28</td>
+                  <td>3</td>
+                  <td>7</td>
+                  <td>21</td>
+                </tr>
+                <tr>
+                  <td>Narok District Hospital</td>
+                  <td>1 -5th Apr 2013</td>
+                  <td>34</td>
+                  <td>27</td>
+                  <td>24</td>
+                  <td>4</td>
+                  <td>8</td>
+                  <td>15</td>
+                </tr>
               </tbody>
+              <tfoot>
+                <tr>
+                  <th>Total</th>
+                  <th></th>
+                  <th>189</th>
+                  <th>178</th>
+                  <th>159</th>
+                  <th>24</th>
+                  <th>34</th>
+                  <th>120</th>
+                </tr>
+              </tfoot>
             </table>
           </li>
+          <li>All hospitals developed an implementation plan amongst hospital administration and UK Visiting consultants to prioritize areas for improvement in care in the hospitals</li>
+          <li>ETAT+ Country clinical lead continued to provide mentorship and guidance to the hospitals by telephone on a monthly basis and by visit on a 3 monthly basis</li>
+          <li>Monthly reports reflecting improvements , challenges and opportunities for change have been compiled by the hospital champions along with the collection of monthly mortality figures</li>
+          <li>6 monthly hospital surveys have been carried out for comparison to the baseline surveys</li>
+          <li>6 monthly quality assurance meetings have been held bring together various hospital paediatricians; hospital champions and the visiting UK Consultants as well as the country clinical lead and overall project manager. </li>
+          These meetings have provided a basis for experience sharing, creating a community of practice and ensuring quality assurance of collected data across all hospitals</li>
+          <li>Equipment has been purchased for the refurbishment of the six hospitals according to the hospital needs using funds allocated for hospital improvement</li>
+          <li>Knowledge and Skills of healthcare workers continue to be improved by running of regular CME Sessions and Drills in the various hospitals.</li>
         </ul>
       </p>
+    </div>
+
+    <div class="project">
+      <h2>RCPCH-Global Links Project- Kenya Paediatric Association (KPA), Royal College of Paediatric and Child Health (RCPCH) –UK partnership </h2>
+      <p>
+        <b>Objective: <br /></b>
+        To establish an exchange program between Kenyan paediatricians  and UK paediatric trainees in order to contribute to improvement of child health globally.
+      </p>
+      <p>This involves coordination of placements for Kenyan paediatricians to get visiting fellowships in UK hospitals in specialty of choice. Coordination of placements for UK paediatric doctors to get voluntary placements in Kenyan hospitals for visiting fellowships in tropical paediatrics and child health.</p>
+
+      <p><b>Duration:</b> Three years starting in 2012.</p>
+
+      <p><b>Achievements:<br /></b>
+      <ol>
+        <li>Under RCPCH-Global Links –KPA partnership- Ten Kenyan Paediatricians have had visiting fellowships in UK hospitals of 4-6 weeks. All their accommodation, flights expenses were paid for. </li>
+        <li>Six Kenyan paediatricians were sponsored to participate in the RCPCH annual scientific conference. </li>
+        <li>Six UK doctors have been on placements of 6-12months working as volunteers at Mama Lucy Kibaki General Hospital, Nairobi, Kiambu General Hospital, Nanyuki General Hospital, Chogoria Mission Hospital. </li>
+        <li>Two UK Paediatric trainees were trained in ETAT+ and Generic Instructors course run by KPA. They are equipped to train in Low income settings. </li>
+        <li>Two UK Paediatric trainees were sponsored to participate in KPA annual scientific conference. </li>
+        <li>RCPCH and KPA executive officers have held meetings to explore further areas of common interest in strengthening the two professional associations to achieve their vision of being global leaders in paediatric and child health. </li>
+      </ol>
     </div>
   </div>
 </div>
