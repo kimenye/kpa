@@ -336,30 +336,69 @@ img.circular {
   h2 {
     text-align: center;
     color: #0066cc;
-  }
+  }  
+}
 
-  img {
+.partners {
+  padding-left: 5%;
+  padding-right: 5%;
+
+  .sponsor_link {
     display: block;
-    margin: auto;
+    width: 100%;
+    height: 100px;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    &:hover {
+      background-position-y: 100%;
+    }
+    
+    &.ge {
+      background-image: url('../images/ge_logo.jpg');          
+    }
+    &.gsk {
+      background-image: url('../images/gsk_logo.jpg');          
+    }
+    &.novartis {
+      background-image: url('../images/novartis_logo.jpg');          
+    }
+    &.bayer {
+      background-image: url('../images/bayer_logo.jpg');          
+    }
+    &.pfizer {
+      background-image: url('../images/pfizer_logo.jpg');          
+    }
+    &.nestle {
+      background-image: url('../images/nestle_logo.jpg');          
+    }
+    &.adcock {
+      background-image: url('../images/adcock_logo.jpg');          
+    }
   }
 }
 
 .secondary {
   @mixin bordered-link-box($color) {
-    border-top: 2px solid $color;
-    border-left: 2px solid $color;
-    border-bottom: 2px solid $color;
+    display: block;
+    // border-bottom: 2px solid $color;
     .description {
       background-color: $color;
       .more {
         color: $color;
       }
     }
+
+    &:hover {
+      border-top: 1px solid $color;
+      border-left: 1px solid $color;
+      border-right: 1px solid $color;
+    }
   }  
 
   .link_box {
     margin-right: 1em;
-    margin-bottom: 2em;
+    margin-bottom: 2em;    
     .icon {
       padding: 1.5em;
       img {
@@ -371,6 +410,7 @@ img.circular {
     .description {      
       padding: 1em;
       color: #ffffff;
+      text-align:center; 
 
       .more {
         color: #ff6633;
@@ -393,6 +433,9 @@ img.circular {
       @include bordered-link-box(#cc66cc);
     }
 
+    &:hover {
+      cursor: pointer;
+    }
 
   }
 }

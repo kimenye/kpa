@@ -55,61 +55,88 @@
   </div>
 </div>
 
-<div class="ui page two column grid secondary">
-  <div class="column">
-    <div class="ui grid row resources link_box">
-      <div class="six wide column icon">
+
+<div class="ui page grid secondary">
+  <div class="four wide column">
+    <a class="resources link_box" href="resources.php">
+      <div class="icon">
         <img src='images/resources.png' alt='Resources' />
       </div>
-      <div class="description ten wide column">
+      <div class="description">
         <h3>Learning Resources</h3>
-        <p>Kenya Paediatric Association is committed to the support to its members in continually enhancing their professional growth to enable them deliver excellent services that will give children quality, healthy lives. Herein is a collection of educational materials to aid members maintain, develop and increase knowledge as professionals.</p>
-        <a class="more" href="resources.php">Read More</a>
       </div>
-    </div>
+    </a>
   </div>
-  <div class="column">
-    <div class="ui grid row patient_info link_box">
-      <div class="six wide column icon">
-        <img src='images/patient_info.png' alt='Resources' />
+  <div class="four wide column">
+    <a class="patient_info link_box">
+      <div class="icon">
+        <img src='images/patient_info.png' alt='Patient Info' />
       </div>
-      <div class="description ten wide column">
+      <div class="description">
         <h3>Health Blog</h3>
-        <p>This is a bi-monthly platform where our in-house paedtricians will share expert opinions on trending health topics and discuss common public health concerns. Parents and caregivers can log on and receive general health advice on keeping those precious children safe.</p>
-        <a class="more">Read More</a>
       </div>
-    </div>
+    </a>
   </div>
-  <div class="column">
-    <div class="ui grid row projects link_box">
-      <div class="six wide column icon">
-        <img src='images/projects.png' alt='Resources' />
+  <div class="four wide column">
+    <a class="projects link_box" href="projects.php">
+      <div class="icon">
+        <img src='images/projects.png' alt='Projects' />
       </div>
-      <div class="description ten wide column">
+      <div class="description">
         <h3>Projects</h3>
-        <p>The Kenya Paediatric Association has since 2006, undertaken various intervention projects in HIV\AIDS prevention, care and treatment services as well as Maternal and Child Health which includes ETAT+, NALS. Various other projects are ongoing to address the increasing demand for quality child health care delivery.</p>
-        <a class="more" href="projects.php">Read More</a>
       </div>
-    </div>
+    </a>
   </div>
-  <div class="column">
-    <div class="ui grid row membership link_box">
-      <div class="six wide column icon">
-        <img src='images/membership.png' alt='Resources' />
+  <div class="four wide column">
+    <a class="membership link_box" href="#">
+      <div class="icon">
+        <img src='images/membership.png' alt='Membership' />
       </div>
-      <div class="description ten wide column">
+      <div class="description">
         <h3>Membership</h3>
-        <p>KPA is implementing its strategic plan 2013-2017 through a multi stake holder approach via 6 committees in line with the strategic intervention. Plug-in to the great vision “Afya kwa watoto wote” through the following committees:</p>
-        <a class="more">Read More</a>
       </div>
-    </div>
+    </a>
   </div>
 </div>
 
 <div class="ui page grid sponsors">
-  <div class="sixteen wide column">
-    <h2>Our Partners &amp; Sponsors</h2>
-    <img src="images/partners_tmp.png" />
+  <div class="row">
+    <div class="sixteen wide column">
+      <h2>Our Partners &amp; Sponsors</h2>
+    </div>
+  </div>
+</div>
+
+<div class="row partners">
+  <div class="ui seven column grid">
+    <div class="column">
+      <a href="https://www.novartis.com/" class="sponsor_link novartis">
+      </a>
+    </div>
+    <div class="column">
+      <a href="http://www.ge.com/" target="_blank" class="sponsor_link ge">
+      </a>
+    </div>
+    <div class="column">
+      <a href="https://www.gsk.com/" target="_blank" class="sponsor_link gsk">
+      </a>
+    </div>    
+    <div class="column">
+      <a href="http://www.bayer.com" target="_blank" class="sponsor_link bayer">
+      </a>
+    </div>
+    <div class="column">
+      <a href="http://www.pfizer.com/" target="_blank" class="sponsor_link pfizer">
+      </a>
+    </div>
+    <div class="column">
+      <a href="http://www.nestle.com/" target="_blank" class="sponsor_link nestle">
+      </a>
+    </div>
+    <div class="column">
+      <a href="http://www.adcock.co.za/" target="_blank" class="sponsor_link adcock">
+      </a>
+    </div>
   </div>
 </div>
 
