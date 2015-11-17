@@ -37,9 +37,9 @@
         <img src='images/calendar.jpg' alt='Calendar' />
       </a>
       <div class="details thirteen wide column">
-        <h4 class="title">Adolescent Care Demystified</h4>
-        <h5 class="date">26th October 2015</h5>
-        <div class="location">Dr. Joyce Mbogo</div>
+        <h4 class="title">16th Annual Scientific Conference</h4>
+        <h5 class="date">26-29th April 2016</h5>
+        <div class="location">Boma Inn - Eldoret</div>
       </div>
     </div>
     <div class="event ui grid">

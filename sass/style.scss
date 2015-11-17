@@ -201,7 +201,10 @@ nav {
 
 .projects {
   .project {
-    margin-top: 2rem;
+    .photo {
+      height: 200px;
+      overflow: hidden;
+    }
 
     &:first-child {
       margin-top: 0rem;
@@ -225,6 +228,17 @@ nav {
       color: #0066cc;
       .em {
         color: #ff0099;
+      }
+    }
+
+    &.vision {
+      h2 {
+        border-bottom: none;
+      }
+
+      p.emphasis {
+        font-weight: 700;
+        font-size: 1.2em;
       }
     }
 

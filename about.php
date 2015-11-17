@@ -24,9 +24,9 @@
     </div>
   </div>
 
-  <div class="row more">
+  <div class="row more vision">
     <div class="ten wide column">
-      <h3>What <span class='em'>We Do</span></h3>
+      <!-- <h3>What <span class='em'>We Do</span></h3>
       <div class="ui styled accordion">
         <div class="title">Vision<i class="dropdown icon"></i></div>
         <div class="content">
@@ -49,7 +49,21 @@
           </ol>
         </div>
 
-      </div>
+      </div> -->
+      <h2>Our Vision</h2>
+      <p class="emphasis">Providing an optimal healthcare environment for the child</p>
+
+      <h3>Our Mission</h3>
+      <p>To be the guide and leader in comprehensive child healthcare delivery through promotion of best practice in paediatrics training, research, policy formulation and capacity building of members</p>
+
+      <h3>Objectives</h3>
+      <ol>
+        <li>To foster the interest of the people of Kenya in all measures considered necessary to combat childhood diseases, by enlisting their co-operation in implementing such measures and by acting as a Centre of public enlightenment on all measures for the Management, Prevention, Control and Eradication of Childhood Diseases.</li>
+        <li>To disseminate knowledge concerning the causes, treatment and prevention of childhood diseases by any means deemed expedient.</li>
+        <li>To play significant roles in counseling support in the fight against societal ills such as Drug Abuse, HIV/AIDS, Rape/Sodomy etc.</li>
+        <li>To encourage research into causes, management and prevention of childhood diseases in Kenya.</li>
+        <li>To collaborate in research, advocacy, education, training and sharing experiences for the implementation of best strategies.</li>
+      </ol>
     </div>
 
     <div class="six wide column">
@@ -60,6 +74,7 @@
         <a class="secondary">The Constitution of the KPA</a>
         <a class="tertiary">Board Members</a>
         <a class="primary">Organogram</a>
+        <a class="secondary">Message from the Chairman</a>
       </div>
     </div>
   </div>
