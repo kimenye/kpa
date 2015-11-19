@@ -38,7 +38,7 @@
       <div class="column newsletter">
         <h3>Find us on Social Media</h3>
         <div class="social icons">
-          <a><i class="icon facebook large circular"></i></a>
+          <a href="https://www.facebook.com/Kenya-Paediatric-Association-424346167661258/" target="_blank"><i class="icon facebook large circular"></i></a>
           <a><i class="icon twitter large circular"></i></a>
           <a><i class="icon linkedin large circular"></i></a>
       </div>

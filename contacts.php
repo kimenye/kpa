@@ -27,7 +27,7 @@
       <b>Public Holidays: </b>Closed<br />
     </address>
 
-    <a class="map"><i class="icon large marker"></i> Locate us on the map</a>
+    <a class="map" href="https://www.google.com/maps/place/KMA+Centre,+Mara+Rd,+Nairobi,+Kenya/@-1.2986251,36.8092123,17z/data=!3m1!4b1!4m2!3m1!1s0x182f10e926fe3c6d:0x48a3b4eb4716e69" target="_blank"><i class="icon large marker"></i> Locate us on the map</a>
   </div>
 
   <div class="ten wide column">

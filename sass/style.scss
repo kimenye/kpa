@@ -292,7 +292,7 @@ img.circular {
 }
 
 .hero {
-  height: 500px;
+  height: 400px;
   width: 100%;
   overflow: hidden;
   padding-left: 0px !important;
@@ -388,6 +388,9 @@ img.circular {
     }
     &.adcock {
       background-image: url('../images/adcock_logo.jpg');          
+    }
+    &.cphd {
+      background-image: url('../images/cphd_logo.jpg');
     }
   }
 }

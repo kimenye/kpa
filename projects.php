@@ -7,7 +7,74 @@
 
 
 <div class="ui page grid main">
-  <div class="row">
+  <div class="projects">
+    
+    <div class="ui stackable two column grid">
+      <div class="column project">
+        <div class="photo">
+          <img src="images/kpa_walk.jpg" class="ui image" />
+        </div>
+        <h2 class="title">Running for Child Survival Event</h2>
+        <p class="summary">KPA together with many other generous organizations (IVAC, GSK, Ministries of Health etc) have, over the last   four  years conducted highly successful child health awareness campaigns in Nairobi.  This has been in form of 10 kilometer runs around the suburbs by members of the public. Previous years have explored themes such as Immunization, pneumonia and child health in general.  These activities have contributed to the gains Kenya has enjoyed in reducing child deaths over the last 5 years. </p>
+      </div>
+      <div class="column project">
+        <div class="photo">
+          <img src="images/atendees.JPG" class="ui image" />
+        </div>
+        <h2 class="title">Symposia and Annual Scientific Conferences</h2>
+        <p class="summary">KPA organizes for a one day scientific symposia four times in a year for paediatricians and other health care providers who are passionate with children’s well being.  Participants are invited from all over the country with attendance ranging from 250-300.  A calendar of events with different themes is shared to all members and speakers from Kenya and other countries are invited to update members on best practices.</p>
+      </div>
+      <!-- <div class="column project">
+        <div class="photo">
+          <img src="images/kpa_walk.jpg" class="ui image" />
+        </div>
+        <h2 class="title">Running for Child Survival Event</h2>
+        <p class="summary">KPA together with many other generous organizations (IVAC, GSK, Ministries of Health etc) have, over the last   four  years conducted highly successful child health awareness campaigns in Nairobi.  This has been in form of 10 kilometer runs around the suburbs by members of the public. Previous years have explored themes such as Immunization, pneumonia and child health in general.  These activities have contributed to the gains Kenya has enjoyed in reducing child deaths over the last 5 years. </p>
+      </div>
+      <div class="column project">
+        <div class="photo">
+          <img src="images/kpa_walk.jpg" class="ui image" />
+        </div>
+        <h2 class="title">Running for Child Survival Event</h2>
+        <p class="summary">KPA together with many other generous organizations (IVAC, GSK, Ministries of Health etc) have, over the last   four  years conducted highly successful child health awareness campaigns in Nairobi.  This has been in form of 10 kilometer runs around the suburbs by members of the public. Previous years have explored themes such as Immunization, pneumonia and child health in general.  These activities have contributed to the gains Kenya has enjoyed in reducing child deaths over the last 5 years. </p>
+      </div> -->
+
+      <!-- <div class="column project">
+        <div class="photo">
+          <img src="images/kpa_walk.jpg" class="ui image" />
+        </div>
+        <h2 class="title">Running for Child Survival Event</h2>
+        <p class="summary">KPA together with many other generous organizations (IVAC, GSK, Ministries of Health etc) have, over the last   four  years conducted highly successful child health awareness campaigns in Nairobi.  This has been in form of 10 kilometer runs around the suburbs by members of the public. Previous years have explored themes such as Immunization, pneumonia and child health in general.  These activities have contributed to the gains Kenya has enjoyed in reducing child deaths over the last 5 years. </p>
+      </div> -->
+      
+    </div>
+<!--       <div class="column project">        
+        <div class="photo">
+          <img src="images/kpa_walk.jpg" class="ui image" />
+        </div>
+        <h2 class="title">Running for Child Survival Event</h2>
+        <p class="summary">KPA together with many other generous organizations (IVAC, GSK, Ministries of Health etc) have, over the last   four  years conducted highly successful child health awareness campaigns in Nairobi.  This has been in form of 10 kilometer runs around the suburbs by members of the public. Previous years have explored themes such as Immunization, pneumonia and child health in general.  These activities have contributed to the gains Kenya has enjoyed in reducing child deaths over the last 5 years. </p>
+      </div>
+
+      <div class="column project">        
+        <div class="photo">
+          <img src="images/kpa_walk.jpg" class="ui image" />
+        </div>
+        <h2 class="title">Running for Child Survival Event</h2>
+        <p class="summary">KPA together with many other generous organizations (IVAC, GSK, Ministries of Health etc) have, over the last   four  years conducted highly successful child health awareness campaigns in Nairobi.  This has been in form of 10 kilometer runs around the suburbs by members of the public. Previous years have explored themes such as Immunization, pneumonia and child health in general.  These activities have contributed to the gains Kenya has enjoyed in reducing child deaths over the last 5 years. </p>
+      </div>
+
+      <div class="column project">
+        <div class="photo">
+          <img src="images/scientific_conference.jpg" class="ui image" />
+          <img src="images/kpa_walk.jpg" class="ui image" />
+        </div>
+        <h2 class="title">Symposia and Annual Scientific Conferences</h2>
+        <p class="summary">KPA organizes for a one day scientific symposia four times in a year for paediatricians and other health care providers who are passionate with children’s well being.  Participants are invited from all over the country with attendance ranging from 250-300.  A calendar of events with different themes is shared to all members and speakers from Kenya and other countries are invited to update members on best practices.</p>
+      </div> -->
+    <!-- </div> -->
+  </div>
+  <!-- <div class="row">
     <div class="project">
       <h2>SYMPOSIA AND ANNUAL SCIENTIFIC CONFERENCES </h2>
       <p>
@@ -22,6 +89,9 @@
     </div>
 
     <div class="project">
+      <div class="photo">
+        <img src="images/kpa_walk.jpg" class="ui image" />
+      </div>
       <h2>ACTIVITIES TO SUPPORT CHILD HEALTH IN THE COMMUNITY</h2>
       <h3>1. Running for Child Survival Event</h3>
       <p>
@@ -268,5 +338,5 @@
         <li>RCPCH and KPA executive officers have held meetings to explore further areas of common interest in strengthening the two professional associations to achieve their vision of being global leaders in paediatric and child health. </li>
       </ol>
     </div>
-  </div>
+  </div> -->
 </div>

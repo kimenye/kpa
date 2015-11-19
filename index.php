@@ -73,7 +73,7 @@
         <img src='images/patient_info.png' alt='Patient Info' />
       </div>
       <div class="description">
-        <h3>Health Blog</h3>
+        <h3>Parent Resources</h3>
       </div>
     </a>
   </div>
@@ -108,13 +108,13 @@
 </div>
 
 <div class="row partners">
-  <div class="ui seven column grid">
+  <div class="ui eight column grid">
     <div class="column">
       <a href="https://www.novartis.com/" class="sponsor_link novartis">
       </a>
     </div>
     <div class="column">
-      <a href="http://www.ge.com/" target="_blank" class="sponsor_link ge">
+      <a href="http://www.gefoundation.com/" target="_blank" class="sponsor_link ge">
       </a>
     </div>
     <div class="column">
@@ -135,6 +135,10 @@
     </div>
     <div class="column">
       <a href="http://www.adcock.co.za/" target="_blank" class="sponsor_link adcock">
+      </a>
+    </div>
+    <div class="column">
+      <a href="http://www.cphdev.org/" target="_blank" class="sponsor_link cphd">
       </a>
     </div>
   </div>
