@@ -33,7 +33,7 @@
       </div>
       <div class="three wide column">
         <div class="social icons">
-          <a><i class="icon facebook circular"></i></a>
+          <a href="https://www.facebook.com/Kenya-Paediatric-Association-424346167661258/" target="_blank"><i class="icon facebook circular"></i></a>
           <a><i class="icon twitter circular"></i></a>
           <a><i class="icon linkedin circular"></i></a>
         </div>

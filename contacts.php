@@ -40,8 +40,8 @@
       <div class="field">
         <input type="email" name="email" placeholder="Enter your email" />
       </div>
-      <div class="field">
-        <select class="ui dropdown" name="subject" required="true">
+      <div class="inline fields">
+        <!-- <select class="ui dropdown" name="subject" required="true">
           <option value="">Select Category</option>
           <option value="General Information">General Information</option>
           <option value="Membership">Membership</option>
@@ -49,7 +49,43 @@
           <option value="Course Attendance">Course Attendance</option>
           <option value="Abstract / Article Submission">Abstract / Article Submission</option>
           <option value="Press">Press</option>
-        </select>
+        </select> -->
+        <div class="field">
+          <div class="ui radio checkbox">
+            <input type="radio" name="subject" value="information">
+            <label>Information</label>
+          </div>
+        </div>
+        <div class="field">
+          <div class="ui radio checkbox">
+            <input type="radio" name="subject" value="membership">
+            <label>Membership</label>
+          </div>
+        </div>
+        <div class="field">
+          <div class="ui radio checkbox">
+            <input type="radio" name="subject" value="conference" >
+            <label>Conference Partnership</label>
+          </div>
+        </div>
+        <div class="field">
+          <div class="ui radio checkbox">
+            <input type="radio" name="subject" value="courses" >
+            <label>Course Attendance</label>
+          </div>
+        </div>
+        <div class="field">
+          <div class="ui radio checkbox">
+            <input type="radio" name="subject" value="abstracts" >
+            <label>Abstract / Article Submission</label>
+          </div>
+        </div>
+        <div class="field">
+          <div class="ui radio checkbox">
+            <input type="radio" name="subject" value="press" >
+            <label>Press</label>
+          </div>
+        </div>
       </div>
       <div class="field">
         <textarea name="message" placeholder="Message"></textarea>
