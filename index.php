@@ -107,7 +107,7 @@
   </div>
 </div>
 
-<div class="row partners">
+<!-- <div class="row partners">
   <div class="ui eight column grid">
     <div class="column">
       <a href="https://www.novartis.com/" class="sponsor_link novartis">
@@ -142,6 +142,19 @@
       </a>
     </div>
   </div>
+</div> -->
+
+<div class="partners">
+  <a href="https://www.novartis.com/" class="sponsor_link novartis"></a>  
+  <a href="http://www.gefoundation.com/" target="_blank" class="sponsor_link ge"></a>
+  <a href="https://www.gsk.com/" target="_blank" class="sponsor_link gsk"></a>  
+  <a href="http://www.pfizer.com/" target="_blank" class="sponsor_link pfizer"></a>
+  <a href="http://www.nestle.com/" target="_blank" class="sponsor_link nestle"></a>
+  <a href="http://en.sanofi.com" target="_blank" class="sponsor_link sanofi"></a>
+  <a href="http://www.gefoundation.com/" target="_blank" class="sponsor_link gef"></a>
+  <a href="http://www.cphdev.org/" target="_blank" class="sponsor_link cphd"></a>
+  <a href="http://www.bayer.com" target="_blank" class="sponsor_link bayer"></a>  
+  <a href="http://www.adcock.co.za/" target="_blank" class="sponsor_link adcock"></a>
 </div>
 
 

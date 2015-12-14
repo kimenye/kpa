@@ -33,7 +33,7 @@
       </div>
       <div class="three wide column">
         <div class="social icons">
-          <a href="https://www.facebook.com/Kenya-Paediatric-Association-424346167661258/" target="_blank"><i class="icon facebook circular"></i></a>
+          <a href="https://www.facebook.com/Kenya-Paediatrics-Association-KPA-1725952787634408/" target="_blank"><i class="icon facebook circular"></i></a>
           <a><i class="icon twitter circular"></i></a>
           <a><i class="icon linkedin circular"></i></a>
         </div>
@@ -41,21 +41,64 @@
     </header>
     <!-- <nav class='ui menu'> -->
     <nav>
-      <a class="ui item home <?php echo $menu == 'home' ? 'active' : ''  ?>" href="index.php">
-        Home
-      </a><a class="ui item about <?php echo $menu == 'about' ? 'active' : ''  ?>" href="about.php">
-        About KPA
-      </a><a class="ui item projects <?php echo $menu == 'projects' ? 'active' : ''  ?>" href="projects.php">
-        Projects
-      </a><a class="ui item large resources <?php echo $menu == 'resources' ? 'active' : ''  ?>" href="resources.php">
-        Learning Resources
-      </a><a class="ui item news">
-        News &amp; Events
-      </a><a class="ui item large">
-        Membership
-      </a><a class="ui item large health">
-        Parents Resources
-      </a><a class="ui item contact <?php echo $menu == 'contacts' ? 'active' : ''  ?>" href="contacts.php">
-        Contacts
-      </a>
+      <ul>
+        <li>
+          <a class="ui item home <?php echo $menu == 'home' ? 'active' : ''  ?>" href="index.php">
+            Home
+          </a>
+        </li><li>
+          <a class="ui item about <?php echo $menu == 'about' ? 'active' : ''  ?>" href="about.php">
+            About KPA
+          </a>
+        </li><li>
+          <a class="ui item projects <?php echo $menu == 'projects' ? 'active' : ''  ?>" href="projects.php">
+            Projects
+          </a>
+          <ul class="dropdown">
+            <li><a href="projects.php">Keprecon</a></li>
+            <li><a href="projects.php">KPA</a></li>
+          </ul>
+        </li><li class="large">
+          <a class="ui item resources <?php echo $menu == 'resources' ? 'active' : ''  ?>" href="resources.php">
+            Learning Resources
+          </a>
+        </li><li>
+          <a class="ui item news">
+            News &amp; Events
+          </a>
+        </li><li class="large">
+          <a class="ui item">
+            Membership
+          </a>
+        </li><li class="large">
+          <a class="ui item health">
+            Parents Resources
+          </a>
+        </li><li>
+          <a class="ui item contact <?php echo $menu == 'contacts' ? 'active' : ''  ?>" href="contacts.php">
+            Contacts
+          </a>
+        </li>
+      </ul>      
     </nav>
+
+   <!--  <div class="nav">
+      <ul>
+        <li>
+          <a class="ui item home <?php echo $menu == 'home' ? 'active' : ''  ?>" href="index.php">
+            Home
+          </a>
+        </li>
+        <li>About</li>
+        <li>
+          Portfolio
+          <ul>
+            <li>Web Design</li>
+            <li>Web Development</li>
+            <li>Illustrations</li>
+          </ul>
+        </li>
+        <li>Blog</li>
+        <li>Contact</li>
+      </ul>
+    </div> -->
