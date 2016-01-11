@@ -70,11 +70,11 @@
       <h3>Downloads</h3>
 
       <div class="download links">
-        <a class="primary">KPA Strategic Plan</a>
-        <a class="secondary">The Constitution of the KPA</a>
-        <a class="tertiary">Board Members</a>
-        <a class="primary">Organogram</a>
-        <a class="secondary">Message from the Chairman</a>
+        <a class="primary" href="documents/KPA_Strategic_Plan.pdf" download>KPA Strategic Plan</a>
+        <a class="secondary" href="documents/The Constitution of the Kenya Paediatric Association (3).pdf" download>The Constitution of the KPA</a>
+        <a class="tertiary" href="documents/BOARD MEMBERS.docx" download>Board Members</a>
+        <a class="primary" href="documents/KPA Organogram.docx" download>Organogram</a>
+        <a class="secondary" href="documents/Chairmans KPA AGM speech Final 2015.docx" download>Message from the Chairman</a>
       </div>
     </div>
   </div>
