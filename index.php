@@ -25,7 +25,7 @@
         practitioners committed to professional excellence and timely, quality service delivery to the children we serve.</p>
 
         <p>KPA is an association whose principal members are paediatricians practicing in Kenya and are committed to the optimal social health and wellbeing of infants and children in Kenya. 
-        <a>Read More...</a>
+        <a href="about.php">Read More...</a>
         </p>
       </div> 
     </div>
@@ -33,22 +33,32 @@
   <div class="six wide column events">
     <h3>Events</h3>
     <div class="event ui grid">
-      <a class="calendar three wide column">
-        <img src='images/calendar.jpg' alt='Calendar' />
+      <a class="calendar five wide column">
+        <!-- <img src='images/calendar.jpg' alt='Calendar' /> -->
+        <div class="date">
+          <span class="binds"></span>
+          <span class="month">April</span>
+          <h1 class="day">26</h1>
+        </div>
       </a>
-      <div class="details thirteen wide column">
+      <div class="details eleven wide column">
         <h4 class="title">16th Annual Scientific Conference</h4>
-        <h5 class="date">26-29th April 2016</h5>
+        <h5 class="dt">26-29th April 2016</h5>
         <div class="location">Boma Inn - Eldoret</div>
       </div>
     </div>
     <div class="event ui grid">
-      <a class="calendar three wide column">
-        <img src='images/calendar.jpg' alt='Calendar' />
+      <a class="calendar five wide column">
+        <!-- <img src='images/calendar.jpg' alt='Calendar' /> -->
+        <div class="date">
+          <span class="binds"></span>
+          <span class="month">February</span>
+          <h1 class="day">1</h1>
+        </div>
       </a>
-      <div class="details thirteen wide column">
+      <div class="details eleven wide column">
         <h4 class="title">Call for Abstracts</h4>
-        <h5 class="date">1st February 2016</h5>
+        <h5 class="dt">1st February 2016</h5>
         <div class="location">abstracts@kenyapaediatric.org</div>
       </div>
     </div>

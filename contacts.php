@@ -52,37 +52,37 @@
         </select> -->
         <div class="field">
           <div class="ui radio checkbox">
-            <input type="radio" name="subject" value="information">
+            <input required="true" type="radio" name="subject" value="information">
             <label>Information</label>
           </div>
         </div>
         <div class="field">
           <div class="ui radio checkbox">
-            <input type="radio" name="subject" value="membership">
+            <input required="true" type="radio" name="subject" value="membership">
             <label>Membership</label>
           </div>
         </div>
         <div class="field">
           <div class="ui radio checkbox">
-            <input type="radio" name="subject" value="conference" >
+            <input required="true" type="radio" name="subject" value="conference" >
             <label>Conference Partnership</label>
           </div>
         </div>
         <div class="field">
           <div class="ui radio checkbox">
-            <input type="radio" name="subject" value="courses" >
+            <input required="true" type="radio" name="subject" value="courses" >
             <label>Course Attendance</label>
           </div>
         </div>
         <div class="field">
           <div class="ui radio checkbox">
-            <input type="radio" name="subject" value="abstracts" >
+            <input required="true" type="radio" name="subject" value="abstracts" >
             <label>Abstract / Article Submission</label>
           </div>
         </div>
         <div class="field">
           <div class="ui radio checkbox">
-            <input type="radio" name="subject" value="press" >
+            <input required="true" type="radio" name="subject" value="press" >
             <label>Press</label>
           </div>
         </div>
