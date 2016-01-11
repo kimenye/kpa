@@ -33,12 +33,12 @@
   <div class="ten wide column">
     <h2>Drop us a line</h2>
 
-    <form class="contact_form ui form">
+    <form class="contact_form ui form" action="http:///formspree.io/info@kenyapaediatric.org/">
       <div class="field">
-        <input type="text" name="name" placeholder="Your Name" />
+        <input type="text" name="name" placeholder="Your Name" required />
       </div>
       <div class="field">
-        <input type="email" name="email" placeholder="Enter your email" />
+        <input type="email" name="email" placeholder="Enter your email" required />
       </div>
       <div class="inline fields">
         <!-- <select class="ui dropdown" name="subject" required="true">
@@ -88,7 +88,7 @@
         </div>
       </div>
       <div class="field">
-        <textarea name="message" placeholder="Message"></textarea>
+        <textarea name="message" placeholder="Message" required></textarea>
       </div>
       <div class="field">
         <input type="submit" class="ui button small" value="Send" />

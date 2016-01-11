@@ -12,6 +12,24 @@
     <div class="ui stackable two column grid">
       <div class="column project">
         <div class="photo">
+        </div>
+        <h2 class="title">HIV/AIDS PROJECTS</h2>
+        <p class="summary">In 2011, the Kenya Paediatric Research Consortium (KEPRECON) partnered with the University of Maryland School of Medicine (UoMLSOM) and University of Nairobi to form the Partnership in Advanced Clinical Education (PACE). The goal of the project is to establish and support County based Centers of Excellence in provision of innovative HIV/AIDS related training and mentorship of health care workers (HCW)  leading to the sustainable provision of innovative training of providers cascaded down to levels 2 and 3.</p>
+      </div>
+      <div class="column project">
+        <div class="photo">
+        </div>
+        <h2 class="title">ETAT+</h2>
+        <p class="summary">The ETAT+ trainings are aimed at introducing clinical practice guidelines (CPG). These CPG cover the commonest causes of mortality for under five years in resource limited countries. The course equips health workers with knowledge and skills for triage, early recognition, rapid assessment and management of the sick children. This includes life support skills for newborns, infants and children.</p>
+      </div>
+      <div class="column project">
+        <div class="photo">
+        </div>
+        <h2 class="title">MATERNAL AND CHILD HEALTH</h2>
+        <p class="summary">In 2013, the Clinton Health Access Initiative (CHAI) partnered with Kenya Pediatric Research Consortium (KEPRECON) to support the Ministry of Health (MOH) strengthen the capacity of Health Care Workers (HCWs) in public and private institutions and clinics to effectively manage cases of childhood Pneumonia and Diarrhea. The partnership aims to reinforce knowledge and skills of HCW in the use of the Integrated Management of Childhood Illnesses (IMCI) technology with emphasis on diarrhea and pneumonia.</p>
+      </div>
+      <div class="column project">
+        <div class="photo">
           <img src="images/kpa_walk.jpg" class="ui image" />
         </div>
         <h2 class="title">Running for Child Survival Event</h2>
