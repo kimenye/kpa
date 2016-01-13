@@ -614,3 +614,10 @@ footer {
   z-index: -1;
   box-shadow: 0 0 3px #ccc;
 }
+
+.owl-carousel .owl-item {
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+} 

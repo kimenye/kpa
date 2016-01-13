@@ -54,10 +54,10 @@
           <a class="ui item projects <?php echo $menu == 'projects' ? 'active' : ''  ?>" href="projects.php">
             Projects
           </a>
-          <!-- <ul class="dropdown">
+          <ul class="dropdown">
             <li><a href="projects.php">Keprecon</a></li>
             <li><a href="projects.php">KPA</a></li>
-          </ul> -->
+          </ul>
         </li><li class="large">
           <a class="ui item resources <?php echo $menu == 'resources' ? 'active' : ''  ?>" href="resources.php">
             Learning Resources

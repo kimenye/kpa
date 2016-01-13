@@ -7,6 +7,7 @@
 <div class="ui page grid">
   <div class="hero owl-carousel" >
     <!-- <div><img src="images/scientific_conference.jpg" alt="Scientific Conference 2016" /></div> -->
+    <div><img src="images/conference_banner.png" alt="Baby sleeping" /></div>
     <div><img src="images/mom-and-baby.jpg" alt="Baby sleeping" /></div>
     <div><img src="images/hero.png" /></div>
   </div>
@@ -154,7 +155,7 @@
   </div>
 </div> -->
 
-<div class="partners">
+<!-- <div class="partners">
   <a href="https://www.novartis.com/" class="sponsor_link novartis"></a>  
   <a href="http://www.gefoundation.com/" target="_blank" class="sponsor_link ge"></a>
   <a href="https://www.gsk.com/" target="_blank" class="sponsor_link gsk"></a>  
@@ -165,6 +166,19 @@
   <a href="http://www.cphdev.org/" target="_blank" class="sponsor_link cphd"></a>
   <a href="http://www.bayer.com" target="_blank" class="sponsor_link bayer"></a>  
   <a href="http://www.adcock.co.za/" target="_blank" class="sponsor_link adcock"></a>
+</div> -->
+
+<div class="owl-carousel partners">
+  <div class="item"><a href="https://www.novartis.com/" class="sponsor_link novartis"></a></div>
+  <div class="item"><a href="http://www.gefoundation.com/" target="_blank" class="sponsor_link ge"></a></div>
+  <div class="item"><a href="https://www.gsk.com/" target="_blank" class="sponsor_link gsk"></a></div>
+  <div class="item"><a href="http://www.pfizer.com/" target="_blank" class="sponsor_link pfizer"></a></div>
+  <div class="item"><a href="http://www.nestle.com/" target="_blank" class="sponsor_link nestle"></a></div>
+  <div class="item"><a href="http://en.sanofi.com" target="_blank" class="sponsor_link sanofi"></a></div>
+  <div class="item"><a href="http://www.gefoundation.com/" target="_blank" class="sponsor_link gef"></a></div>
+  <div class="item"><a href="http://www.cphdev.org/" target="_blank" class="sponsor_link cphd"></a></div>
+  <div class="item"><a href="http://www.bayer.com" target="_blank" class="sponsor_link bayer"></a></div>
+  <div class="item"><a href="http://www.adcock.co.za/" target="_blank" class="sponsor_link adcock"></a></div>
 </div>
 
 
