@@ -621,3 +621,18 @@ footer {
     height: auto;
   }
 } 
+
+img.poster {
+  max-width: 100%;
+}
+
+.events {
+  .hero {
+    border-top: 1px solid #eeeeee;
+    margin-bottom: 2em;
+  }
+
+  .more {
+    color: #eee;
+  }
+}

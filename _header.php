@@ -63,7 +63,7 @@
             Learning Resources
           </a>
         </li><li>
-          <a class="ui item news">
+          <a class="ui item news <?php echo $menu == 'events' ? 'active' : ''  ?>" href="events.php">
             News &amp; Events
           </a>
         </li><li class="large">

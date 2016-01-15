@@ -7,7 +7,8 @@
 <div class="ui page grid">
   <div class="hero owl-carousel" >
     <!-- <div><img src="images/scientific_conference.jpg" alt="Scientific Conference 2016" /></div> -->
-    <div><img src="images/conference_banner.png" alt="Baby sleeping" /></div>
+    <div><a href="images/abstracts.pdf" download><img src="images/call_abstracts.png" alt="Abstracts" /></a></div>
+    <div><a href="events.php"><img src="images/conference_banner.png" alt="Conference" /></a></div>
     <div><img src="images/mom-and-baby.jpg" alt="Baby sleeping" /></div>
     <div><img src="images/hero.png" /></div>
   </div>
