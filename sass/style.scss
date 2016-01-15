@@ -149,7 +149,8 @@ nav {
       }
     }
 
-    &.home {
+    &.home,
+    &.membership {
       @include bordered-background(#ff008a);
     }
 

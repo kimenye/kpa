@@ -27,7 +27,7 @@
   <body class="<?php echo $menu; ?>">
     <header class='ui page grid'>
       <div class="thirteen wide column">
-        <a href="index.php" class="logo">
+        <a href="<?php echo home_url( '/' ); ?>" class="logo">
           <img src="<?php echo get_stylesheet_directory_uri() ?>/images/logo_mid.png" />
         </a>           
       </div>
@@ -43,7 +43,7 @@
     <nav>
       <ul>
         <li>
-          <a class="ui item home <?php echo $menu == 'home' ? 'active' : ''  ?>" href="index.php">
+          <a class="ui item home <?php echo $menu == 'home' ? 'active' : ''  ?>" href="<?php echo home_url( '/' ); ?>">
             Home
           </a>
         </li><li>

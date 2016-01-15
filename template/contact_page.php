@@ -3,7 +3,7 @@
    * Template Name: Contact Page
    */
 
-  theme_header('none');
+  theme_header('contact-us');
 ?>
 
 <div class="ui page grid main">
@@ -89,4 +89,4 @@
   </div>
 </div>
 
-<?php include '_footer.php'; ?>
+<?php theme_footer('none'); ?>
