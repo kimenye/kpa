@@ -75,7 +75,7 @@
             Parents Resources
           </a>
         </li><li>
-          <a class="ui item contact <?php echo $menu == 'contacts' ? 'active' : ''  ?>" href="contacts.php">
+          <a class="ui item contact <?php echo $menu == 'contacts' ? 'active' : ''  ?>" href="contact-us">
             Contacts
           </a>
         </li>
