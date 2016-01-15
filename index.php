@@ -7,10 +7,10 @@
 <div class="ui page grid">
   <div class="hero owl-carousel" >
     <!-- <div><img src="images/scientific_conference.jpg" alt="Scientific Conference 2016" /></div> -->
-    <div><a href="images/abstracts.pdf" download><img src="images/call_abstracts.png" alt="Abstracts" /></a></div>
-    <div><a href="events.php"><img src="images/conference_banner.png" alt="Conference" /></a></div>
-    <div><img src="images/mom-and-baby.jpg" alt="Baby sleeping" /></div>
-    <div><img src="images/hero.png" /></div>
+    <div><a href="<?php echo get_stylesheet_directory_uri() ?>/images/abstracts.pdf" download><img src="<?php echo get_stylesheet_directory_uri() ?>/images/call_abstracts.png" alt="Abstracts" /></a></div>
+    <div><a href="events.php"><img src="<?php echo get_stylesheet_directory_uri() ?>/images/conference_banner.png" alt="Conference" /></a></div>
+    <div><img src="<?php echo get_stylesheet_directory_uri() ?>/images/mom-and-baby.jpg" alt="Baby sleeping" /></div>
+    <div><img src="<?php echo get_stylesheet_directory_uri() ?>/images/hero.png" /></div>
   </div>
 </div>
 
@@ -20,7 +20,7 @@
 
     <div class="more ui grid">
       <div class="five wide column">
-        <img src="images/bear.jpg" alt="Doctor" />
+        <img src="<?php echo get_stylesheet_directory_uri() ?>/images/bear.jpg" alt="Doctor" />
       </div>
       <div class="eleven wide column">
         <p>Welcome to the official website of the Kenya Paediatric Association (KPA). KPA, is a nonprofit, non-partisan body of paediatric 
@@ -72,7 +72,7 @@
   <div class="four wide column">
     <a class="resources link_box" href="resources.php">
       <div class="icon">
-        <img src='images/resources.png' alt='Resources' />
+        <img src='<?php echo get_stylesheet_directory_uri() ?>/images/resources.png' alt='Resources' />
       </div>
       <div class="description">
         <h3>Learning Resources</h3>
@@ -82,7 +82,7 @@
   <div class="four wide column">
     <a class="patient_info link_box">
       <div class="icon">
-        <img src='images/patient_info.png' alt='Patient Info' />
+        <img src='<?php echo get_stylesheet_directory_uri() ?>/images/patient_info.png' alt='Patient Info' />
       </div>
       <div class="description">
         <h3>Parent Resources</h3>
@@ -92,7 +92,7 @@
   <div class="four wide column">
     <a class="projects link_box" href="projects.php">
       <div class="icon">
-        <img src='images/projects.png' alt='Projects' />
+        <img src='<?php echo get_stylesheet_directory_uri() ?>/images/projects.png' alt='Projects' />
       </div>
       <div class="description">
         <h3>Projects</h3>
@@ -102,7 +102,7 @@
   <div class="four wide column">
     <a class="membership link_box" href="#">
       <div class="icon">
-        <img src='images/membership.png' alt='Membership' />
+        <img src='<?php echo get_stylesheet_directory_uri() ?>/images/membership.png' alt='Membership' />
       </div>
       <div class="description">
         <h3>Membership</h3>
@@ -118,56 +118,6 @@
     </div>
   </div>
 </div>
-
-<!-- <div class="row partners">
-  <div class="ui eight column grid">
-    <div class="column">
-      <a href="https://www.novartis.com/" class="sponsor_link novartis">
-      </a>
-    </div>
-    <div class="column">
-      <a href="http://www.gefoundation.com/" target="_blank" class="sponsor_link ge">
-      </a>
-    </div>
-    <div class="column">
-      <a href="https://www.gsk.com/" target="_blank" class="sponsor_link gsk">
-      </a>
-    </div>    
-    <div class="column">
-      <a href="http://www.bayer.com" target="_blank" class="sponsor_link bayer">
-      </a>
-    </div>
-    <div class="column">
-      <a href="http://www.pfizer.com/" target="_blank" class="sponsor_link pfizer">
-      </a>
-    </div>
-    <div class="column">
-      <a href="http://www.nestle.com/" target="_blank" class="sponsor_link nestle">
-      </a>
-    </div>
-    <div class="column">
-      <a href="http://www.adcock.co.za/" target="_blank" class="sponsor_link adcock">
-      </a>
-    </div>
-    <div class="column">
-      <a href="http://www.cphdev.org/" target="_blank" class="sponsor_link cphd">
-      </a>
-    </div>
-  </div>
-</div> -->
-
-<!-- <div class="partners">
-  <a href="https://www.novartis.com/" class="sponsor_link novartis"></a>  
-  <a href="http://www.gefoundation.com/" target="_blank" class="sponsor_link ge"></a>
-  <a href="https://www.gsk.com/" target="_blank" class="sponsor_link gsk"></a>  
-  <a href="http://www.pfizer.com/" target="_blank" class="sponsor_link pfizer"></a>
-  <a href="http://www.nestle.com/" target="_blank" class="sponsor_link nestle"></a>
-  <a href="http://en.sanofi.com" target="_blank" class="sponsor_link sanofi"></a>
-  <a href="http://www.gefoundation.com/" target="_blank" class="sponsor_link gef"></a>
-  <a href="http://www.cphdev.org/" target="_blank" class="sponsor_link cphd"></a>
-  <a href="http://www.bayer.com" target="_blank" class="sponsor_link bayer"></a>  
-  <a href="http://www.adcock.co.za/" target="_blank" class="sponsor_link adcock"></a>
-</div> -->
 
 <div class="owl-carousel partners">
   <div class="item"><a href="https://www.novartis.com/" class="sponsor_link novartis"></a></div>

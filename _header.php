@@ -12,8 +12,8 @@
 
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.1.4/semantic.min.css">
     <link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,700" media="screen" rel="stylesheet">
-    <link rel="stylesheet" href="stylesheets/style.css">
-    <link rel="stylesheet" href="stylesheets/owl.carousel.css">
+    <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri() ?>/stylesheets/style.css">
+    <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri() ?>/stylesheets/owl.carousel.css">
 
 
     <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
@@ -21,14 +21,14 @@
     
     <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>      
     <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.1.4/semantic.min.js"></script>
-    <script type="text/javascript" src="javascript/owl.carousel.min.js"></script>
-    <script type="text/javascript" src="javascript/main.js"></script>
+    <script type="text/javascript" src="<?php echo get_stylesheet_directory_uri() ?>/javascript/owl.carousel.min.js"></script>
+    <script type="text/javascript" src="<?php echo get_stylesheet_directory_uri() ?>/javascript/main.js"></script>
   </head>
   <body class="<?php echo $menu; ?>">
     <header class='ui page grid'>
       <div class="thirteen wide column">
         <a href="index.php" class="logo">
-          <img src="images/logo_mid.png" />
+          <img src="<?php echo get_stylesheet_directory_uri() ?>/images/logo_mid.png" />
         </a>           
       </div>
       <div class="three wide column">
